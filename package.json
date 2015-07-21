@@ -11,8 +11,9 @@
     "url": "git+https://github.com/joakimbeng/readdir-absolute.git"
   },
   "keywords": [
-    "file",
-    "exists"
+    "fs",
+    "readdir",
+    "absolute paths"
   ],
   "author": "Joakim Carlstein <joakim@klei.se>",
   "license": "MIT",
