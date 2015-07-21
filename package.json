@@ -1,0 +1,26 @@
+{
+  "name": "readdir-absolute",
+  "version": "1.0.0",
+  "description": "As fs.readdir but it returns absolute paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joakimbeng/readdir-absolute.git"
+  },
+  "keywords": [
+    "file",
+    "exists"
+  ],
+  "author": "Joakim Carlstein <joakim@klei.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joakimbeng/readdir-absolute/issues"
+  },
+  "homepage": "https://github.com/joakimbeng/readdir-absolute#readme",
+  "devDependencies": {
+    "tape": "^4.0.1"
+  }
+}
